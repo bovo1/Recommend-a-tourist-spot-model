@@ -39,8 +39,10 @@ https://www.aihub.or.kr/aihubdata/data/list.do?searchKeyword=%EC%97%AC%ED%96%89%
 ![image](https://github.com/bovo1/-/assets/110110403/591a4f4b-a19d-42d8-a0ce-76a62f0ee683)  
 
 이렇게 모델을 학습하였을 때 모델의 성능은 다음과 같습니다.  
-![image](https://github.com/bovo1/-/assets/110110403/f755476b-f40b-493f-933d-c7e02fdac5fb)
+학습 시간은 21분 36초 걸렸습니다.  
+![image](https://github.com/bovo1/-/assets/110110403/f755476b-f40b-493f-933d-c7e02fdac5fb)  
 
+보통의 머신 러닝에서 쓰이는 데이터 양보다 적다 보니 시간은 적게 걸리나 정확도는 중간 정도의 등급인 것 같습니다.  
 
 
 #### 모델 사용 예시  
